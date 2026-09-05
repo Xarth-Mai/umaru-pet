@@ -1,0 +1,172 @@
+{
+  "ok": true,
+  "reviewed_by": [
+    "independent final_qa"
+  ],
+  "directions": [
+    {
+      "degree": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "centered",
+        "vertical": "chin pupils up"
+      },
+      "reason": "upward face distinct from idle"
+    },
+    {
+      "degree": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "head pupils right",
+        "vertical": "pitch up"
+      },
+      "reason": "gradual up-right"
+    },
+    {
+      "degree": "045",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "nose mouth pupils right",
+        "vertical": "slight upward pitch"
+      },
+      "reason": "both axes visible"
+    },
+    {
+      "degree": "067.5",
+      "expected": "up-right",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "right profile",
+        "vertical": "subtle up"
+      },
+      "reason": "near right cardinal, sequence retains up"
+    },
+    {
+      "degree": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "nose mouth pupils clearly screen-right",
+        "vertical": "level"
+      },
+      "reason": "unmistakable right profile"
+    },
+    {
+      "degree": "112.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "right profile",
+        "vertical": "gaze begins down"
+      },
+      "reason": "coherent downward transition"
+    },
+    {
+      "degree": "135",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "right visible",
+        "vertical": "down visible"
+      },
+      "reason": "Face lower than045 and transitions toward157.5; upward pupil cue explains blind conflict, but no definite head reversal in labeled loop"
+    },
+    {
+      "degree": "157.5",
+      "expected": "down-right",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "right retained",
+        "vertical": "downward transition clear"
+      },
+      "reason": "approaches down"
+    },
+    {
+      "degree": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "centered",
+        "vertical": "face chin lowered"
+      },
+      "reason": "downward attention"
+    },
+    {
+      "degree": "202.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "left turn",
+        "vertical": "slightly down"
+      },
+      "reason": "lowered face supports quadrant"
+    },
+    {
+      "degree": "225",
+      "expected": "down-left",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "left",
+        "vertical": "weak down near level"
+      },
+      "reason": "sequence supports down-left without reversal"
+    },
+    {
+      "degree": "247.5",
+      "expected": "down-left",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "left",
+        "vertical": "near level"
+      },
+      "reason": "intermediate approaching left cardinal"
+    },
+    {
+      "degree": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "clear screen-left profile nose gaze",
+        "vertical": "level"
+      },
+      "reason": "unmistakable left"
+    },
+    {
+      "degree": "292.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "observed": {
+        "horizontal": "left",
+        "vertical": "slightly up"
+      },
+      "reason": "coherent raised gaze"
+    },
+    {
+      "degree": "315",
+      "expected": "up-left",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "left",
+        "vertical": "chin gaze up"
+      },
+      "reason": "both axes"
+    },
+    {
+      "degree": "337.5",
+      "expected": "up-left",
+      "verdict": "warning",
+      "observed": {
+        "horizontal": "slightly left near centered",
+        "vertical": "strong up"
+      },
+      "reason": "near up closing pose"
+    }
+  ],
+  "continuity": {
+    "verdict": "warning",
+    "reason": "Coherent clockwise loop; minor face-width changes112.5-to135 and315-to337.5, minor scale/expression change337.5-to000; no conspicuous snap"
+  }
+}

@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27463,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27735,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27657,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 121
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27632,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27838,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27501,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23840,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23593,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24799,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23799,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 135
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24286,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24230,
+          "bbox": [
+            6,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 6,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23448,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 7,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24713,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 140
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23754,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23665,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24944,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23799,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 135
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24286,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24047,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 6,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23448,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 7,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24683,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25553,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25655,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25479,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25552,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 28835,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27426,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26546,
+          "bbox": [
+            5,
+            6,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26047,
+          "bbox": [
+            5,
+            8,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 29534,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25664,
+          "bbox": [
+            5,
+            15,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18865,
+          "bbox": [
+            5,
+            38,
+            187,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27347,
+          "bbox": [
+            5,
+            8,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27956,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27920,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23291,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 6,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16530,
+          "bbox": [
+            5,
+            46,
+            187,
+            161
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        },
+        {
+          "index": 7,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27494,
+          "bbox": [
+            5,
+            11,
+            187,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26741,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25314,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25966,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 61
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26554,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25258,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25618,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 58
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27334,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 28172,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26975,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27160,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27107,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27378,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 28005,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 44
+        },
+        {
+          "index": 1,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26155,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 65
+        },
+        {
+          "index": 2,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27334,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        },
+        {
+          "index": 3,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27444,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 4,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27212,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 5,
+          "file": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 27686,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        }
+      ]
+    }
+  ]
+}

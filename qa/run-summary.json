@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/work/umaru",
+  "spritesheet": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/spritesheet.webp",
+  "package": "/home/lzzz/.codex/pets/umaru",
+  "validation": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/validation-extended.json",
+  "chroma_despill": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/chroma-despill-extended.json",
+  "contact_sheet": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/contact-sheet-extended.png",
+  "direction_sheet": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/look-directions.png",
+  "direction_semantics": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/direction-semantics.json",
+  "blind_direction_validation": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/blind-review-resolution.json",
+  "continuity": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/look-continuity.json",
+  "review": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/review.json",
+  "visual_qa": "/home/lzzz/Documents/Codex/2026-09-06/hatch-pet-home-lzzz-codex-skills-2/outputs/umaru/qa/final-visual-qa.json"
+}

@@ -1,0 +1,22 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "failed_checks": [
+    "horizontal-6 A horizontal axis is ambiguous",
+    "horizontal-7 A horizontal axis is ambiguous",
+    "vertical-3 A classified up; expected down",
+    "vertical-3 B vertical axis is ambiguous",
+    "vertical-4 A vertical axis is ambiguous",
+    "vertical-4 B vertical axis is ambiguous",
+    "vertical-6 A vertical axis is ambiguous",
+    "vertical-6 B vertical axis is ambiguous",
+    "vertical-7 B vertical axis is ambiguous"
+  ],
+  "evidence": [
+    "All four cardinal blind classifications pass",
+    "Independent labeled per-direction review confirms loop order; near-axis intermediate directions have subtle cues",
+    "After full-row scale repair, independent final-size review found minor size variation without conspicuous pop",
+    "202.5 y188 transparency candidate independently confirmed as intentional gap between legs connected to exterior"
+  ],
+  "reviewed_by": "parent"
+}

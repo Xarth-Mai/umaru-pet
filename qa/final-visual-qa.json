@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "reviewed_by": "independent final_qa",
+  "method": "All9 GIFs all57 frames visually inspected as temporal sequences; direct GIF playback unavailable",
+  "repair_rows": [],
+  "alpha_hole_resolution": "202.5 y188 gap is between legs and connected to exterior; no accidental interior hole",
+  "warnings": {
+    "verdict": "warning",
+    "reason": "Coherent clockwise loop; minor face-width changes112.5-to135 and315-to337.5, minor scale/expression change337.5-to000; no conspicuous snap"
+  }
+}
